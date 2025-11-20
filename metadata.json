@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Enhancer Engine",
+  "description": "A professional AI prompt engineering tool that transforms raw input into highly structured, effective, and optimized system prompts using the Gemini API.",
+  "requestFramePermissions": []
+}
