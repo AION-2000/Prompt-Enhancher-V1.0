@@ -1,7 +1,8 @@
 # 🚀 Prompt Enhancer Engine v1.0
 Transform raw ideas into superior, structured AI prompts with selectable styles and instant enhancements.
 
-![Preview](./c9f8786c-eff5-49d0-81aa-b391a40a5b16.png)
+<img width="1539" height="918" alt="image" src="https://github.com/user-attachments/assets/057ce39a-e3c4-42b0-b532-61b499185a7e" />
+
 
 ---
 
